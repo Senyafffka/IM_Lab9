@@ -1,0 +1,10 @@
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\bin\Debug\ИМ_Лаб9.exe.config
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\bin\Debug\ИМ_Лаб9.exe
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\bin\Debug\ИМ_Лаб9.pdb
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\obj\Debug\ИМ_Лаб9.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\obj\Debug\ИМ_Лаб9.Form1.resources
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\obj\Debug\ИМ_Лаб9.Properties.Resources.resources
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\obj\Debug\ИМ_Лаб9.csproj.GenerateResource.cache
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\obj\Debug\ИМ_Лаб9.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\obj\Debug\ИМ_Лаб9.exe
+D:\Visual Studio\Project\IM\ИМ_Лаб9\ИМ_Лаб9\obj\Debug\ИМ_Лаб9.pdb
